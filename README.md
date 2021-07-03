@@ -1,6 +1,6 @@
 # Pangaea Take Home Assignment
 
-Hosted on netlify @ [pangaea-shop.vercel.app](pangaea-shop.vercel.app).
+Hosted on Vercel @ [pangaea-shop.vercel.app](pangaea-shop.vercel.app).
 
 ## How to run the app
 
